@@ -175,25 +175,6 @@ python app.py --query "Is my spouse covered under the company health insurance?"
 
 ---
 
-## 🛠️ Planned Improvements
 
-* ✅ Streamlit / Gradio UI
-* ✅ Redis/SQLite-based chat memory
-* ✅ Docker + cloud deployment DOCKER COMMAND - {"http://localhost:8501/",docker run --env-file .env -p 8501:8501 hr-assistant-bot:latest}
-* ✅ Slack/MS Teams integration
-
----
-
-## 👤 Author
-
-**Jayandhan S** — Passionate about building agentic GenAI systems and real-world AI assistants.
-
----
-
-## 📜 License
-
-MIT License
-
-```
 
 
