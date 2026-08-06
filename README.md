@@ -129,7 +129,7 @@ After quantitative evaluation across accuracy, latency, and semantic coverage, t
 - 📡 **LangSmith integration**
 - 🧠 **Multi-turn memory (WIP)**
 - 🌐 **Streamlit interface (planned)**
-- 🐳 **Deployed in Huggingface spaces**
+
 
 ---
 
