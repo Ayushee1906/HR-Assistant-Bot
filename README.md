@@ -1,14 +1,3 @@
----
-title: HR Assistant Bot
-emoji: 🤖
-colorFrom: green
-colorTo: blue
-sdk: streamlit
-sdk_version: "1.26.0"
-app_file: app.py
-pinned: false
-# to run locally: python -m streamlit run app.py
----
 
 
 # 1. HR Assistant Bot
