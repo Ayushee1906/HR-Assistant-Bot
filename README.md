@@ -1,6 +1,6 @@
 
 
-# 1. HR Assistant Bot
+# 1.HR Policy Q&A Assistant
 
 This chatbot allows employees to query HR policies using an AI-powered assistant.
 🧠 HR Policy Q&A Assistant (RAG-powered)
